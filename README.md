@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmikpansuriya8660" alt="dharmikpansuriya8660" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, JQ & Photoshop cc, Illustrator.**
+- 🌱 I’m currently learning **HTML, CSS, JS, JQ.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DharmikPansuriya8660](https://github.com/DharmikPansuriya8660)
 
