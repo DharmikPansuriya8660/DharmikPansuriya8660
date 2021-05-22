@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmik B Pansuriya</h1>
-<h3 align="center">A passionate self-taught frontend developer and Graphic Designer from India.</h3>
+<h3 align="center">A passionate <b>self-taught</b> frontend developer and Graphic Designer from India.</h3>
 
 <img align="right" alt="Coding" width="330" height="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 
