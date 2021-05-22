@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmik B Pansuriya</h1>
 <h3 align="center">A passionate <span style="color:orange;">self-taught</span> frontend developer and Graphic Designer from India.</h3>
 
-<img align="right" alt="Coding" src="https://cdn-images-1.medium.com/max/800/0*ZnNHGO20RCbUGatL.gif">
+<img align="right" alt="Coding" width="280" height="250" src="https://cdn-images-1.medium.com/max/800/0*ZnNHGO20RCbUGatL.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="dharmikpansuriya8660" /> </p>
 
