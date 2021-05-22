@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer and Graphics Designers from India.</h3>
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/GbX7lZTNCrBUQ/source.gif">
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/Er3QVX48nt5ok/source.gif">
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/99875/screenshots/11124171/media/8a56e4ea066b7e17b24f942ac6380c68.gif">
+<img align="right" alt="Coding" width="300" src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmikpansuriya8660&label=Profile%20views&color=0e75b6&style=flat" alt="dharmikpansuriya8660" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="dharmikpansuriya8660" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmikpansuriya8660" alt="dharmikpansuriya8660" /></a> </p>
 
