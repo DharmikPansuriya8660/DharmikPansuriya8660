@@ -2,7 +2,7 @@
 <h3 align="center">A passionate self-taught frontend developer and Graphic Designer from India.</h3>
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/GbX7lZTNCrBUQ/source.gif">
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/Er3QVX48nt5ok/source.gif">
-<img align="right" alt="Coding" width="300" src="">
+<img align="right" alt="Coding" width="300" src="https://dribbble.com/shots/6577029-Paddle-bat/attachments/6577029-Paddle-bat?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="dharmikpansuriya8660" /> </p>
 
