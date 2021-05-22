@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and Graphics Designers from India.</h3>
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/GbX7lZTNCrBUQ/source.gif">
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/Er3QVX48nt5ok/source.gif">
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/99875/screenshots/11124171/media/8a56e4ea066b7e17b24f942ac6380c68.mp4">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/99875/screenshots/11124171/media/8a56e4ea066b7e17b24f942ac6380c68.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmikpansuriya8660&label=Profile%20views&color=0e75b6&style=flat" alt="dharmikpansuriya8660" /> </p>
 
