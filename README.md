@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmik B Pansuriya</h1>
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
-<h3 align="center">A passionate frontend developer and Graphics Designers from India.</h3>
+<h3 align="center">A passionate self-taught frontend developer and Graphic Designer from India.</h3>
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/GbX7lZTNCrBUQ/source.gif">
 <img align="right" alt="Coding" width="295" height="150" src="https://media.giphy.com/media/Er3QVX48nt5ok/source.gif">
 <img align="right" alt="Coding" width="300" src="">
@@ -29,6 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmikpansuriya8660&show_icons=true&theme=dark&locale=en&layout=compact" alt="dharmikpansuriya8660" /></p>
