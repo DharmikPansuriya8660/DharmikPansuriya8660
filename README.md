@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharmik B Pansuriya</h1>
 <h3 align="center">A passionate frontend developer and Graphics Designers from India.</h3>
-<img align="right" alt="Coding" width="300" height="300" style="margin-top: 200;" src="https://media.giphy.com/media/Er3QVX48nt5ok/source.gif">
+<img align="right" alt="Coding" width="300" height="200" style="margin-top: 200px;" src="https://media.giphy.com/media/Er3QVX48nt5ok/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmikpansuriya8660&label=Profile%20views&color=0e75b6&style=flat" alt="dharmikpansuriya8660" /> </p>
 
