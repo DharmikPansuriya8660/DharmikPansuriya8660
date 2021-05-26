@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="dharmikpansuriya8660" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmikpansuriya8660" alt="dharmikpansuriya8660" /></a> </p>
-<img align="right" alt="Coding" width="280" height="250" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif">
 
 - 🌱 I’m currently learning **HTML, CSS, JS, JQ.**
 
