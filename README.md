@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharmik B Pansuriya</h1>
 <h3 align="center">A passionate <span style="color:orange;">self-taught</span> frontend developer and Graphic Designer from India.</h3>
-<img align="right" alt="Coding" width="250" height="170" src="https://cdn.dribbble.com/users/3622080/screenshots/15667364/media/bfdd8020d15852d57d4476c0f6dd457a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="dharmikpansuriya8660" /> </p>
 
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **JS, JQ.**
 
-- 👨‍💻 All of my Photoshop & Illustrator related projects are available at [https://drive.google.com/drive/u/7/my-drive](https://github.com/DharmikPansuriya8660)
+- 👨‍💻 All of my Photoshop & Illustrator related projects are available at [https://drive.google.com/drive/u/7/my-drive](https://drive.google.com/drive/u/7/my-drive)
 
 - 💬 Ask me about **Creativity & New Ideas**
 
