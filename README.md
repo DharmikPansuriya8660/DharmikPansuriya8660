@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS, JQ.**
 
-- 👨‍💻 All of my Photoshop & Illustrstor related projects are available at [https://drive.google.com/drive/u/7/my-drive](https://github.com/DharmikPansuriya8660)
+- 👨‍💻 All of my Photoshop & Illustrator related projects are available at [https://drive.google.com/drive/u/7/my-drive](https://github.com/DharmikPansuriya8660)
 
 - 💬 Ask me about **Creativity & New Ideas**
 
