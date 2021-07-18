@@ -21,8 +21,6 @@
 <a href="https://codepen.io/@dharmikpansuriya8660" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@dharmikpansuriya8660" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dharmik pansuriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharmik pansuriya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:15504683" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:15504683" height="30" width="40" /></a>
-<a href="https://fb.com/dharmik pansuriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dharmik pansuriya" height="30" width="40" /></a>
-<a href="https://instagram.com/mr__dharmik_b_pansuriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr__dharmik_b_pansuriya" height="30" width="40" /></a>
 </p>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/DharmikPansuriya8660/github-readme-stats)*
 
